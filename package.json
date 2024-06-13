@@ -8,7 +8,7 @@
     "hass",
     "automation",
     "lovelace",
-    "custom-cards"
+    "solar-boiler-card"
   ],
   "module": "solar-boiler-card.js",
   "repository": "git@github.com:custom_cards/solar-boiler-card.git",
